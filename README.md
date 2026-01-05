@@ -24,7 +24,7 @@ Automates testing for the **Akesa Health mobile app** using **WebdriverIO + Appi
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com//Theruchika/mobile-automation
+git clone https:/github.com/Theruchika/mobile-automation
 cd mobile-automation
 npm install
 ```
